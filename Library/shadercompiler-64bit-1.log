@@ -1,0 +1,11 @@
+Base path: C:/Program Files (x86)/Unity5/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-15272
+Cmd: getPlatforms
+Cmd: compileCompute
+  api=4 insize=407 outsize=433 ok=1
+Cmd: compileCompute
+  api=4 insize=407 outsize=433 ok=1
+Cmd: compileCompute
+  api=15 insize=407 outsize=973 ok=1
+Cmd: compileCompute
+  api=9 insize=407 outsize=953 ok=1
